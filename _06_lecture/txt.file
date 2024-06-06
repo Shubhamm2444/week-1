@@ -1,0 +1,26 @@
+JavaScript (ES6) Basics for MERN Stack Development
+
+What is JavaScript (JS)?
+JavaScript is a versatile, high-level, interpreted programming language that powers dynamic and interactive web experiences. It's primarily used on the client-side (frontend) of web applications to manipulate the Document Object Model (DOM), handle user interactions, and create dynamic content. In the MERN stack (MongoDB, Express.js, React.js, Node.js), it's essential both on the frontend using libraries like React and on the backend using Node.js, which allows you to write server-side JavaScript code.
+
+Key JavaScript (ES6) Concepts:
+1=Variables and Data Types (let, const, var):
+let: Declare block-scoped variables, ideal for most use cases.
+const: Declare constant values, enhancing code safety.
+var: Older way, generally discouraged in ES6+ due to potential scoping issues.
+2=Data Types:
+String: Text data (enclosed in quotes).
+Number: Numeric values.
+Boolean: true or false values.
+Object: Collections of key-value pairs to store complex data.
+Array: Ordered collections of items (can hold different data types).
+3=Operators:
+Arithmetic: Perform mathematical operations.
+Comparison: Compare values.
+Logical: Combine conditions.
+Assignment: Assign values to variables.
+4=Control Flow Statements (if, else, for, while):
+if: Execute code conditionally.
+else: Execute alternative code if the if condition is false.
+for: Loop through a sequence (often used with arrays).
+while: Loop continuously as long as a condition is true.
