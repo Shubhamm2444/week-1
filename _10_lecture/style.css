@@ -1,0 +1,16 @@
+/* style.css (optional for styling) */
+body {
+  font-family: Arial, sans-serif;
+}
+
+//1. Comment:
+/* style.css (optional for styling) */: This line is a comment that's not interpreted by the browser. It provides information for developers about the purpose of the following CSS rule.
+
+2. Selector:
+body: This keyword targets all body elements within the HTML document.
+
+3. Declaration:
+font-family: Arial, sans-serif;: This property specifies the font family used to display the text content within the body element. In this case, it sets the first choice to be "Arial" and a fallback option to be a generic sans-serif font. If "Arial" is not available on the user's system, the browser will use a different sans-serif font as a substitute.
+
+Overall Function:
+This CSS code changes the default font used throughout the main content area (body) of the webpage to "Arial" or a similar sans-serif font. Sans-serif fonts lack decorative strokes on the ends of their characters, making them easier to read on screens. This styling rule is considered optional because the browser has default styles for font appearance, but it provides a way to customize the look and feel of your web page.
